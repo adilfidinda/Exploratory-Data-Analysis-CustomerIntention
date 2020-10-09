@@ -1,1 +1,2 @@
 # Exploratory-Data-Analysis-CustomerIntention
+Saat ini persaingan untuk bisnis online shopping semakin kompetitif. Hal ini dikarenakan tren belanja online selalu meningkat setiap tahunnya linier dengan pengguna internet yang selalu bertambah. Customer lebih banyak beralih ke sistem belanja online daripada konvensional. Maka dari itu, perusahaan harus mengerti customer intent atau keinginan yang dimiliki customer terhadap suatu produk atau layanan tertentu. Perusahaan perlu meningkatkan rate penjualan online agar memaksimalkan keuntungan
